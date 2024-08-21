@@ -38,7 +38,7 @@ If you are interested in my works or looking for some discussions, please let me
 
 - [ACM WWW’24] Yifeng Luo, Yupeng Li, **Dacheng Wen**, and Liang Lan, "Message Injection Attack on Rumor Detection Under the Black-Box Evasion setting Using Large Language Model", <em>ACM The Web Conference</em>, 2024.
 
-- [IEEE T-ITS] **Dacheng Wen**, Yupeng Li, and Francis C. Lau, "A Survey of Machine Learning-Based Ride-Hailing Planning", <em>IEEE Transactions on Intelligent Transportation Systems</em>, vol. 25, no. 6, pp. 4734-4753, 2024.
+- [IEEE T-ITS] **Dacheng Wen**, Yupeng Li, and Francis C.M. Lau, "A Survey of Machine Learning-Based Ride-Hailing Planning", <em>IEEE Transactions on Intelligent Transportation Systems</em>, vol. 25, no. 6, pp. 4734-4753, 2024.
 
 - [IEEE Network] **Dacheng Wen**\*, Yupeng Li\*, and Francis C.M. Lau, "Byzantine-Resilient Online Federated Learning with Applications to Network Traffic Classification", <em>IEEE Network</em>, vol. 37, no. 4, pp. 145-152, 2023. (*Co-first author)
 
