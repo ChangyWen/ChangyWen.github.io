@@ -40,7 +40,7 @@ If you are interested in my works or looking for some discussions, please let me
 
 - [IEEE T-ITS] **Dacheng Wen**, Yupeng Li, and Francis C. Lau, "A Survey of Machine Learning-Based Ride-Hailing Planning", <em>IEEE Transactions on Intelligent Transportation Systems</em>, vol. 25, no. 6, pp. 4734-4753, 2024.
 
-- [IEEE Network] **Dacheng Wen**\*, Yupeng Li\*, and Francis C.M. Lau, "Byzantine-Resilient Online Federated Learning with Applications to Network Traffic Classification", <em>IEEE Network</em>, vol. 37, no. 4, pp 145-152, 2023. (*Co-first author)
+- [IEEE Network] **Dacheng Wen**\*, Yupeng Li\*, and Francis C.M. Lau, "Byzantine-Resilient Online Federated Learning with Applications to Network Traffic Classification", <em>IEEE Network</em>, vol. 37, no. 4, pp. 145-152, 2023. (*Co-first author)
 
 - [IEEE ICDM’23] Yupeng Li, **Dacheng Wen**\*, Haorui He, Jianxiong Guo, Xuan Ning, and Francis C.M. Lau, "Contextual Target-Specific Stance Detection on Twitter: Dataset and Method", <em>IEEE International Conference on Data Mining</em>, 2023. (*Corresponding author)
 
