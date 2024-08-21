@@ -58,4 +58,4 @@ If you are interested in my works or looking for some discussions, please let me
 
 - *2018.12 - 2019.05*, Research Assistant, [Shenzhen Research Institute of Big Data](http://sribd.cn/), Shenzhen, China.
 
-- *2018.07-2018.08*, Summer Research Internship Programme, Department of Computer Science, [The University of Hong Kong](https://www.hku.hk/), Hong Kong.
+- *2018.07 - 2018.08*, Summer Research Internship Programme, Department of Computer Science, [The University of Hong Kong](https://www.hku.hk/), Hong Kong.
