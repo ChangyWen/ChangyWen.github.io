@@ -24,7 +24,7 @@ I am currently pursuing my Ph.D. degree with the [Department of Computer Science
 
 My research interests include robust machine learning and online algorithms (including learning-augmented online algorithms).
 
-If you are interested in my works or looking for some discussions, please let me know by [email](wdacheng@connect.hku.hk) at any time.
+If you are interested in my works or looking for some discussions, please let me know by [email](mailto:wdacheng@connect.hku.hk) at any time.
 
 # 📝 Publications
 
