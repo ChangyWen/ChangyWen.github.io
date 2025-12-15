@@ -34,7 +34,7 @@ If you are interested in my works or looking for some discussions, please let me
 
 - [TMC] Yupeng Li, <u>Dacheng Wen</u><sup>†</sup>, Mengjia Xia, Mingzhe Chen, and Xiaoming Fu, "Robust Decentralized Online Learning against Targeted and Untargeted Malicious Data Feature Manipulation", to be appeared in <em>IEEE Transactions on Mobile Computing</em>.
 
-- [AAAI'26] Haorui He, Yupeng Li, Bin Benjamin Zhu, <u>Dacheng Wen</u>, Reynold Cheng, and Francis C.M. Lau, "Fact2Fiction: Targeted Poisoning Attack to Agentic Fact-checking Systems",
+- [AAAI'26] Haorui He, Yupeng Li, Bin Benjamin Zhu, <u>Dacheng Wen</u>, Reynold Cheng, and Francis C.M. Lau, "Fact2Fiction: Targeted Poisoning Attack to Agentic Fact-checking Systems", <em>AAAI Conference on Artificial Intelligence</em>, 2026.
 
 - [INFOCOM’24] <u>Dacheng Wen</u>, Yupeng Li, and Francis C.M. Lau, "Augment Online Linear Optimization with Arbitrarily Bad Machine-Learned Predictions", <em>IEEE International Conference on Computer Communications</em>, 2024.
 
