@@ -20,7 +20,7 @@ redirect_from:
 # Welcome!
 
 <!-- I received the M.S. degree and Bachelor degree in computer science from The University of Hong Kong and [Jinan University](https://english.jnu.edu.cn/), respectively. -->
-I am currently pursuing my Ph.D. degree with the [Department of Computer Science](https://www.cs.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), supervised by [Prof. Francis C.M. Lau](https://www.cs.hku.hk/people/academic-staff/fcmlau) and [Dr. Yupeng Li](https://imd.hkbu.edu.hk/faculty-member/Dr-Yupeng-LI.html).
+I am currently pursuing my Ph.D. degree with the [Department of Computer Science](https://www.cs.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), supervised by [Dr. Yupeng Li (HKBU)](https://imd.hkbu.edu.hk/faculty-member/Prof-Yupeng-LI.html) and [Prof. Francis C.M. Lau](https://www.cs.hku.hk/people/academic-staff/fcmlau).
 
 My research interests include robust machine learning and online algorithms (including learning-augmented online algorithms).
 
