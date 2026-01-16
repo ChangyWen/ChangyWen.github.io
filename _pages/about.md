@@ -56,7 +56,7 @@ If you are interested in my works or looking for some discussions, please let me
 
 - [SECON’23] Yupeng Li, <u>Dacheng Wen</u>, and Mengjia Xia, "Robust Decentralized Online Learning against Malicious Data Generators and Dynamic Feedback Delays with Application to Traffic Classification", <em>IEEE International Conference on Sensing, Communication, and Networking</em>, 2023.
 
-- [HILL Workshop at ICML’20] Yupeng Li, Mengjia Xia, <u>Dacheng Wen</u>, Cheng Zhang, Meng Ai, and Qun Li, “Online Ride-sharing Pricing with Fairness”, <em>Workshop on Human in the Loop Learning at International Conference on Machine Learning</em>, 2020.
+<!-- - [HILL Workshop at ICML’20] Yupeng Li, Mengjia Xia, <u>Dacheng Wen</u>, Cheng Zhang, Meng Ai, and Qun Li, “Online Ride-sharing Pricing with Fairness”, <em>Workshop on Human in the Loop Learning at International Conference on Machine Learning</em>, 2020. -->
 
 # 💻 Internships
 - *2025.06 - Now*, Research Intern, Social Computing Group, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China; Mentor: Dr. Fangzhao Wu.
