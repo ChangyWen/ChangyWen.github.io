@@ -26,7 +26,7 @@ My research interests include robust machine learning and online algorithms (inc
 
 If you are interested in my works or looking for some discussions, please let me know by [email](mailto:wdacheng@connect.hku.hk) at any time.
 
-# 📝 Selected Publications
+# 📝 Publications
 #### * denotes equal contribution, † denotes corresponding author.
 
 
