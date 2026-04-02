@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dacheng Wen"
-  avatar           : "images/avatar.jpg"
+  avatar           : "images/avatar.png"
   bio              : "The University of Hong Kong"
   location         : "Hong Kong"
   employer         :
