@@ -61,7 +61,8 @@ If you are interested in my works or looking for some discussions, please let me
 <!-- - [HILL Workshop at ICML’20] Yupeng Li, Mengjia Xia, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Cheng Zhang, Meng Ai, and Qun Li, “Online Ride-sharing Pricing with Fairness”, <em>Workshop on Human in the Loop Learning at International Conference on Machine Learning</em>, 2020. -->
 
 # 💻 Internships
-- *2025.06 - Now*, Research Intern, Social Computing Group, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China; Mentor: Dr. Fangzhao Wu.
+- *2025.06 - 2026.03*, Research Intern, Social Computing Group, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China; Mentor: Dr. Fangzhao Wu.
+  - Received the Award of Excellence in <b>Stars of Tomorrow Internship Program</b>
 
 - *2019.06 - 2019.08*, Intern of Algorithmic Engineer, Department of Trading Engine Technology, [DiDi Chuxing](https://www.didiglobal.com/), Beijing, China.
 
