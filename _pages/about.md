@@ -28,7 +28,7 @@ If you are interested in my works or looking for some discussions, please let me
 
 # 🔥 News
 
-- Our project, <i><b>AI-Powered Fact-Checking as a Service</b></i>, won the <b>Silver Prize</b> and the <b>International Press Prize</b> (Special Award) at the [<b>51st International Exhibition of Inventions Geneva 2026</b>](https://www.inventions-geneva.ch/en/about/).
+- Our project, <i><b>AI-Powered Fact-Checking as a Service</b></i>, won the <b>Silver Prize</b> and the <b>International Press Prize</b> (Special Award) at the [<b>51st International Exhibition of Inventions Geneva, 2026</b>](https://www.inventions-geneva.ch/en/about/).
   -  [Official results](https://www.inventions-geneva.ch/wp-content/uploads/2026/03/2026-PALMARES-EN-1.pdf) & [Hong Kong Government press release](https://www.info.gov.hk/gia/general/202603/15/P2026031500772.htm)
 
 
