@@ -37,7 +37,7 @@ If you are interested in my works or looking for some discussions, please let me
 
 - `INFOCOM’26` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Francis C.M. Lau, Tian Wang, and Yang Chen, "Near-Optimal Online Learning with Non-Stochastic and Unbounded Erroneous Feedback", <em>IEEE International Conference on Computer Communications</em>, 2026.
 
-- `ToN'26` Yupeng Li, Mengjia Xia, <b style="color: #0366d6;"><u>Dacheng Wen</u></b><span style="color: #d73a49; font-weight: bold;">†</span>, Francis C.M. Lau, Shunbo Lei, Zhaocheng Huang, and Qun (Tracy) Li, "Robust Decentralized Online Learning against Targeted and Untargeted Malicious Data Feature Manipulation", to appear, <em>IEEE/ACM Transactions on Networking</em>.
+- `ToN'26` Yupeng Li, Mengjia Xia, <b style="color: #0366d6;"><u>Dacheng Wen</u></b><span style="color: #d73a49; font-weight: bold;">†</span>, Francis C.M. Lau, Shunbo Lei, Zhaocheng Huang, and Qun (Tracy) Li, "Fairness-Aware Online Pricing for Profit Maximization in Ride-Sharing", to appear, <em>IEEE/ACM Transactions on Networking</em>.
 
 - `AAAI'26` Haorui He, Yupeng Li, Bin Benjamin Zhu, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Reynold C.K. Cheng, and Francis C.M. Lau, "Fact2Fiction: Targeted Poisoning Attack to Agentic Fact-checking Systems", <em>AAAI Conference on Artificial Intelligence</em>, 2026. (Oral)
 
