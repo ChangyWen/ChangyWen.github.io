@@ -37,13 +37,15 @@ If you are interested in my works or looking for some discussions, please let me
 
 - `INFOCOM’26` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Francis C.M. Lau, Tian Wang, and Yang Chen, "Near-Optimal Online Learning with Non-Stochastic and Unbounded Erroneous Feedback", <em>IEEE International Conference on Computer Communications</em>, 2026.
 
-- `ToN'26` Yupeng Li, Mengjia Xia, <b style="color: #0366d6;"><u>Dacheng Wen</u></b><span style="color: #d73a49; font-weight: bold;">†</span>, Francis C.M. Lau, Shunbo Lei, Zhaocheng Huang, and Qun (Tracy) Li, "Fairness-Aware Online Pricing for Profit Maximization in Ride-Sharing", to appear, <em>IEEE/ACM Transactions on Networking</em>.
+- `TMC'26` Yupeng Li, <b style="color: #0366d6;"><u>Dacheng Wen</u></b><span style="color: #d73a49; font-weight: bold;">†</span>, Mengjia Xia, Mingzhe Chen, and Xiaoming Fu, "Robust Decentralized Online Learning against Targeted and Untargeted Malicious Data Feature Manipulation", <em>IEEE Transactions on Mobile Computing</em>, vol. 25, no. 6, pp. 7611-7625, 2026.
+
+- `ToN'26` Yupeng Li, Mengjia Xia, <b style="color: #0366d6;"><u>Dacheng Wen</u></b><span style="color: #d73a49; font-weight: bold;">†</span>, Francis C.M. Lau, Shunbo Lei, Zhaocheng Huang, and Qun (Tracy) Li, "Fairness-Aware Online Pricing for Profit Maximization in Ride-Sharing", <em>IEEE/ACM Transactions on Networking</em>, vol. 34, pp. 4345-4360, 2026.
+
+- `ACL'26` Zhaoheng Huang, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yutao Zhu, Xiaoying Lian, Yushi Liang, Kai Hao, Nan Li, Liangjie Zhang, Qi Zhang, Zhicheng Dou, Ji-Rong Wen, and Fangzhao Wu, "RLSeek: Evidence-Grounded Reasoning for RAG Hallucination Detection", <em>Annual Meeting of the Association for Computational Linguistics</em>, 2026. (Main conference, long paper)
 
 - `AAAI'26` Haorui He, Yupeng Li, Bin Benjamin Zhu, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Reynold C.K. Cheng, and Francis C.M. Lau, "Fact2Fiction: Targeted Poisoning Attack to Agentic Fact-checking Systems", <em>AAAI Conference on Artificial Intelligence</em>, 2026. (Oral)
 
 - `WWW'26` Haorui He, Yupeng Li, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yang Chen, Reynold C.K. Cheng, Donglong Chen, and Francis C.M. Lau, "Debating truth: Debate-driven claim verification with multiple large language model agents", <em>ACM The Web Conference</em>, 2026.
-
-- `TMC'25` Yupeng Li, <b style="color: #0366d6;"><u>Dacheng Wen</u></b><span style="color: #d73a49; font-weight: bold;">†</span>, Mengjia Xia, Mingzhe Chen, and Xiaoming Fu, "Robust Decentralized Online Learning against Targeted and Untargeted Malicious Data Feature Manipulation", to appear, <em>IEEE Transactions on Mobile Computing</em>.
 
 - `INFOCOM’24` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, and Francis C.M. Lau, "Augment Online Linear Optimization with Arbitrarily Bad Machine-Learned Predictions", <em>IEEE International Conference on Computer Communications</em>, 2024.
 
