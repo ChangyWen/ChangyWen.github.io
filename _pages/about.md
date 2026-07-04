@@ -35,7 +35,7 @@ If you are interested in my works or looking for some discussions, please let me
 #### <span style="color: #d73a49; font-weight: bold;">†</span> denotes the sole corresponding author, <span style="color: #d73a49; font-weight: bold;">*</span> denotes equal contribution.
 
 
-- `INFOCOM’26` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Francis C.M. Lau, Tian Wang, and Yang Chen, "Near-Optimal Online Learning with Non-Stochastic and Unbounded Erroneous Feedback", <em>IEEE International Conference on Computer Communications</em>, 2026.
+- `INFOCOM'26` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Francis C.M. Lau, Tian Wang, and Yang Chen, "Near-Optimal Online Learning with Non-Stochastic and Unbounded Erroneous Feedback", <em>IEEE International Conference on Computer Communications</em>, 2026.
 
 - `TMC'26` Yupeng Li, <b style="color: #0366d6;"><u>Dacheng Wen</u></b><span style="color: #d73a49; font-weight: bold;">†</span>, Mengjia Xia, Mingzhe Chen, and Xiaoming Fu, "Robust Decentralized Online Learning against Targeted and Untargeted Malicious Data Feature Manipulation", <em>IEEE Transactions on Mobile Computing</em>, vol. 25, no. 6, pp. 7611-7625, 2026.
 
