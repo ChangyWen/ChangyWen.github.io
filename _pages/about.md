@@ -22,7 +22,7 @@ redirect_from:
 <!-- I received the M.S. degree and Bachelor degree in computer science from The University of Hong Kong and [Jinan University](https://english.jnu.edu.cn/), respectively. -->
 I am currently pursuing my Ph.D. degree with the [Department of Computer Science](https://www.cs.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), supervised by [Dr. Yupeng Li (HKBU)](https://imd.hkbu.edu.hk/faculty-member/Prof-Yupeng-LI.html) and [Prof. Francis C.M. Lau](https://www.cs.hku.hk/people/academic-staff/fcmlau).
 
-My research interests include robust machine learning and online algorithms (including learning-augmented online algorithms).
+My research interests include robust machine learning and online optimization algorithms.
 
 If you are interested in my works or looking for some discussions, please let me know by [email](mailto:wdacheng@connect.hku.hk) at any time.
 
@@ -34,6 +34,11 @@ If you are interested in my works or looking for some discussions, please let me
 # 📝 Publications
 #### <span style="color: #d73a49; font-weight: bold;">†</span> denotes the sole corresponding author, <span style="color: #d73a49; font-weight: bold;">*</span> denotes equal contribution.
 
+- `ToN'27` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Xiaoming Fu, and Francis C.M. Lau, "Online Linear Optimization with Possibly Arbitrary Machine-Learned Predictions across All and Sub-Linear Rounds", to appear, IEEE Transactions on Networking, 10.1109/TON.2026.3739344.
+
+- `HSSC'26` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Bu Zhong, Yang Chen, Xiaoming Fu, and Francis C.M. Lau, "Silent voices, visible patterns: leveraging partial social interaction graph for vaccination stance detection", to appear, Humanities and Social Sciences Communications, 10.1057/s41599-026-08448-6.
+
+- `EMNLP'26` Zhaoheng Huang, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yutao Zhu, Zhicheng Dou, Ji-Rong Wen, and Fangzhao Wu, "CAD-Mark: Context-Aware Distributional Watermarking for Robust LLM-Generated Text Detection", Empirical Methods in Natural Language Processing, 2026.
 
 - `INFOCOM'26` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Francis C.M. Lau, Tian Wang, and Yang Chen, "Near-Optimal Online Learning with Non-Stochastic and Unbounded Erroneous Feedback", <em>IEEE International Conference on Computer Communications</em>, 2026.
 
