@@ -34,11 +34,11 @@ If you are interested in my works or looking for some discussions, please let me
 # 📝 Publications
 #### <span style="color: #d73a49; font-weight: bold;">†</span> denotes the sole corresponding author, <span style="color: #d73a49; font-weight: bold;">*</span> denotes equal contribution.
 
-- `ToN'27` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Xiaoming Fu, and Francis C.M. Lau, "Online Linear Optimization with Possibly Arbitrary Machine-Learned Predictions across All and Sub-Linear Rounds", to appear, IEEE Transactions on Networking, 10.1109/TON.2026.3739344.
+- `ToN'27` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Xiaoming Fu, and Francis C.M. Lau, "Online Linear Optimization with Possibly Arbitrary Machine-Learned Predictions across All and Sub-Linear Rounds", to appear, <em>IEEE Transactions on Networking</em>, 10.1109/TON.2026.3739344.
 
-- `HSSC'26` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Bu Zhong, Yang Chen, Xiaoming Fu, and Francis C.M. Lau, "Silent voices, visible patterns: leveraging partial social interaction graph for vaccination stance detection", to appear, Humanities and Social Sciences Communications, 10.1057/s41599-026-08448-6.
+- `HSSC'26` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Bu Zhong, Yang Chen, Xiaoming Fu, and Francis C.M. Lau, "Silent voices, visible patterns: leveraging partial social interaction graph for vaccination stance detection", to appear, <em>Humanities and Social Sciences Communications</em>, 10.1057/s41599-026-08448-6.
 
-- `EMNLP'26` Zhaoheng Huang, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yutao Zhu, Zhicheng Dou, Ji-Rong Wen, and Fangzhao Wu, "CAD-Mark: Context-Aware Distributional Watermarking for Robust LLM-Generated Text Detection", Empirical Methods in Natural Language Processing, 2026.
+- `EMNLP'26` Zhaoheng Huang, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yutao Zhu, Zhicheng Dou, Ji-Rong Wen, and Fangzhao Wu, "CAD-Mark: Context-Aware Distributional Watermarking for Robust LLM-Generated Text Detection", <em>Empirical Methods in Natural Language Processing</em>, 2026.
 
 - `INFOCOM'26` <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yupeng Li, Francis C.M. Lau, Tian Wang, and Yang Chen, "Near-Optimal Online Learning with Non-Stochastic and Unbounded Erroneous Feedback", <em>IEEE International Conference on Computer Communications</em>, 2026.
 
@@ -47,6 +47,8 @@ If you are interested in my works or looking for some discussions, please let me
 - `ToN'26` Yupeng Li, Mengjia Xia, <b style="color: #0366d6;"><u>Dacheng Wen</u></b><span style="color: #d73a49; font-weight: bold;">†</span>, Francis C.M. Lau, Shunbo Lei, Zhaocheng Huang, and Qun (Tracy) Li, "Fairness-Aware Online Pricing for Profit Maximization in Ride-Sharing", <em>IEEE/ACM Transactions on Networking</em>, vol. 34, pp. 4345-4360, 2026.
 
 - `ACL'26` Zhaoheng Huang, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Yutao Zhu, Xiaoying Lian, Yushi Liang, Kai Hao, Nan Li, Liangjie Zhang, Qi Zhang, Zhicheng Dou, Ji-Rong Wen, and Fangzhao Wu, "RLSeek: Evidence-Grounded Reasoning for RAG Hallucination Detection", <em>Annual Meeting of the Association for Computational Linguistics</em>, 2026. (Main conference, long paper)
+
+- `MM'26` Haorui He, Xinwen Chen, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Reynold Cheng, Francis C. M. Lau, and Yupeng Li, "Novel Claim or Déjà Vu? Rethinking ‘ContaminationFree’ Dynamic Evaluation for Multimodal Automated Fact-Checking", <em>ACM International Conference on Multimedia</em>, 2026.
 
 - `AAAI'26` Haorui He, Yupeng Li, Bin Benjamin Zhu, <b style="color: #0366d6;"><u>Dacheng Wen</u></b>, Reynold C.K. Cheng, and Francis C.M. Lau, "Fact2Fiction: Targeted Poisoning Attack to Agentic Fact-checking Systems", <em>AAAI Conference on Artificial Intelligence</em>, 2026. (Oral)
 
